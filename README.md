@@ -4,7 +4,9 @@ A calm, local-first visual reference library for macOS. Keep images, web article
 
 ## Download the alpha
 
-The first public alpha is being prepared. No installer has been published yet.
+**[Download Jotun 0.1.2 for Apple silicon](https://github.com/LaunchBoxProjects/Jotun-releases/releases/download/v0.1.2/Jotun-0.1.2-arm64.dmg)**
+
+[Release notes](https://github.com/LaunchBoxProjects/Jotun-releases/releases/tag/v0.1.2). The app and installer are Developer ID signed and notarized by Apple.
 
 Open this repository's **Releases** section and download the `.dmg` attached to the alpha release. The first build is for Apple-silicon Macs (M1 or later); it does not support Intel Macs.
 
